@@ -19,3 +19,12 @@ h1{
     text-align: center;
     padding-bottom: 10px;
 }
+.btn{
+    padding: 100px, 200px;
+    background-color: grey;
+    color: white;
+}
+.btn:hover{
+    background-color: white;
+    color: grey;
+}
